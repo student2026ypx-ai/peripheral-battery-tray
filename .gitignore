@@ -1,0 +1,11 @@
+*.exe
+*.pdb
+*.zip
+*电量状态.json
+*.low-battery.txt
+启动记录.txt
+灯光记忆-*.txt
+*.log
+bin/
+obj/
+.vs/
